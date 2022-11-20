@@ -1,9 +1,9 @@
-# TTGO ESP32
-
+# Codes with LILYGO ESP32 Boards
 - Includes all my code with Lilygo esp32 board.
   - Currently there are may boards from Lilygo.
   - But  I am using mainly two of the following boards.
-    - ![Lilygo T-Display ESP32 1.14 inch](ESP32_114_inch.JPG)
+    <p align = "center">
+    - <img src = "https://github.com/pradipta03/codes/blob/main/Arduino/TTGO%20ESP32/ESP32_114_inch.JPG" width  = "250" height = "250"/>
 
     - ![LILYGO T-Display-S3 ESP32-S3 1.9 inch](ESP32_19_inch.jpg)
 
